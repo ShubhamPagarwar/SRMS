@@ -1,0 +1,4 @@
+1. copy the path from c drive.
+   C:\oraclexe\app\oracle\product\10.2.0\server\jdbc\lib
+2. set into pathtext
+3. create new path on upper side whose name is classpath

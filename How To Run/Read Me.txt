@@ -1,0 +1,12 @@
+Step to Run the Project Student Record Management System:
+
+1.	Firstly install the JDK1.6 in your computer. Set the Path of java in Environment variable of Control Panel.
+2.	Install the Oracle 10g on Your Computer. Establish the connection of only Pure java Concept.
+3.	Refer the Particular reference for learning the establishing pure JDBC connection.
+4.	After Checking the Connection is Established Properly, Open the Command Prompt.
+5.	In Command Prompt, Go to the Particular path where the Project coding is stored.
+6.	Than Enter the Following two Commands for compiling and running the Project
+	i.	javac  *.java 
+	ii.	java   SRMS1
+7.	Than Our Project is run.
+
